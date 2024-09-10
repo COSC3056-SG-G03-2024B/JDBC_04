@@ -1,0 +1,901 @@
+/*home page*/
+.home-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .home-page .div {
+    background-color: #ffffff;
+    width: 1923px;
+    height: 1115px;
+    position: relative;
+  }
+  
+  .home-page .overlap {
+    position: absolute;
+    width: 329px;
+    height: 154px;
+    top: 334px;
+    left: 147px;
+    background-color: #ffffff;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #cecece;
+  }
+  
+  .home-page .text-wrapper {
+    position: absolute;
+    height: 20px;
+    top: 21px;
+    left: 20px;
+    font-family: "Outfit-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .p {
+    position: absolute;
+    height: 20px;
+    top: 65px;
+    left: 20px;
+    font-family: "Outfit-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .world-temperature-in {
+    position: absolute;
+    height: 20px;
+    top: 108px;
+    left: 20px;
+    font-family: "Outfit-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .climate-change {
+    position: absolute;
+    height: 32px;
+    top: 190px;
+    left: 150px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .home-page .temperature-data {
+    position: absolute;
+    height: 24px;
+    top: 291px;
+    left: 150px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-2 {
+    position: absolute;
+    height: 20px;
+    top: 595px;
+    left: 147px;
+    font-family: "Outfit-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .our-mission {
+    position: absolute;
+    height: 24px;
+    top: 546px;
+    left: 147px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .home-page .group {
+    position: absolute;
+    width: 325px;
+    height: 164px;
+    top: 292px;
+    left: 770px;
+  }
+  
+  .home-page .population-data {
+    position: absolute;
+    height: 24px;
+    top: 0;
+    left: 0;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-3 {
+    position: absolute;
+    height: 20px;
+    top: 60px;
+    left: 0;
+    font-family: "Outfit-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .world-population-in {
+    position: absolute;
+    height: 20px;
+    top: 102px;
+    left: 0;
+    font-family: "Outfit-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .world-population-in-2 {
+    position: absolute;
+    height: 20px;
+    top: 144px;
+    left: 0;
+    font-family: "Outfit-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .target-personas {
+    position: absolute;
+    height: 24px;
+    top: 770px;
+    left: 147px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .home-page .overlap-group {
+    position: absolute;
+    width: 317px;
+    height: 135px;
+    top: 829px;
+    left: 147px;
+  }
+  
+  .home-page .overlap-group-wrapper {
+    position: absolute;
+    width: 317px;
+    height: 135px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .overlap-group-2 {
+    position: relative;
+    width: 313px;
+    height: 135px;
+    background-color: #ffffff;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #cecece;
+  }
+  
+  .home-page .john-smith {
+    position: absolute;
+    height: 16px;
+    top: 32px;
+    left: 94px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-4 {
+    position: absolute;
+    height: 16px;
+    top: 56px;
+    left: 97px;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #838383;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .home-page .ellipse {
+    width: 66px;
+    height: 66px;
+    top: 19px;
+    left: 17px;
+    border-radius: 33px;
+    position: absolute;
+    background-color: #d9d9d9;
+  }
+  
+  .home-page .text-wrapper-5 {
+    position: absolute;
+    height: 32px;
+    top: 190px;
+    left: 1537px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-6 {
+    position: absolute;
+    height: 20px;
+    top: 285px;
+    left: 1634px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-7 {
+    position: absolute;
+    height: 20px;
+    top: 312px;
+    left: 1634px;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #a5a5a5;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-8 {
+    position: absolute;
+    height: 20px;
+    top: 339px;
+    left: 1634px;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .ellipse-2 {
+    position: absolute;
+    width: 83px;
+    height: 83px;
+    top: 281px;
+    left: 1537px;
+    background-color: #d9d9d9;
+    border-radius: 41.5px;
+  }
+  
+  .home-page .text-wrapper-9 {
+    top: 402px;
+    left: 1634px;
+    position: absolute;
+    height: 20px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-10 {
+    top: 429px;
+    left: 1634px;
+    position: absolute;
+    height: 20px;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #a5a5a5;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-11 {
+    top: 456px;
+    left: 1634px;
+    position: absolute;
+    height: 20px;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .ellipse-3 {
+    width: 83px;
+    height: 83px;
+    top: 398px;
+    left: 1537px;
+    border-radius: 41.5px;
+    position: absolute;
+    background-color: #d9d9d9;
+  }
+  
+  .home-page .text-wrapper-12 {
+    top: 519px;
+    left: 1634px;
+    position: absolute;
+    height: 20px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-13 {
+    top: 631px;
+    left: 1635px;
+    position: absolute;
+    height: 20px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-14 {
+    top: 546px;
+    left: 1634px;
+    position: absolute;
+    height: 20px;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #a5a5a5;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-15 {
+    top: 573px;
+    left: 1634px;
+    position: absolute;
+    height: 20px;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .ellipse-4 {
+    width: 83px;
+    height: 83px;
+    top: 515px;
+    left: 1537px;
+    border-radius: 41.5px;
+    position: absolute;
+    background-color: #d9d9d9;
+  }
+  
+  .home-page .text-wrapper-16 {
+    top: 663px;
+    left: 1635px;
+    position: absolute;
+    height: 20px;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #a5a5a5;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-17 {
+    top: 690px;
+    left: 1635px;
+    position: absolute;
+    height: 20px;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .ellipse-5 {
+    width: 83px;
+    height: 83px;
+    top: 632px;
+    left: 1538px;
+    border-radius: 41.5px;
+    position: absolute;
+    background-color: #d9d9d9;
+  }
+  
+  .home-page .text-wrapper-18 {
+    top: 753px;
+    left: 1635px;
+    position: absolute;
+    height: 20px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-19 {
+    top: 780px;
+    left: 1635px;
+    position: absolute;
+    height: 20px;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #a5a5a5;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-20 {
+    top: 807px;
+    left: 1635px;
+    position: absolute;
+    height: 20px;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .ellipse-6 {
+    width: 83px;
+    height: 83px;
+    top: 749px;
+    left: 1538px;
+    border-radius: 41.5px;
+    position: absolute;
+    background-color: #d9d9d9;
+  }
+  
+  .home-page .website-header {
+    position: absolute;
+    width: 1511px;
+    height: 54px;
+    top: 35px;
+    left: 147px;
+  }
+  
+  .home-page .group-2 {
+    position: absolute;
+    width: 182px;
+    height: 54px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .text-wrapper-21 {
+    position: absolute;
+    width: 105px;
+    height: 20px;
+    top: 17px;
+    left: 75px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  
+  .home-page .ellipse-7 {
+    width: 57px;
+    height: 54px;
+    top: 0;
+    left: 0;
+    border-radius: 28.47px/27px;
+    position: absolute;
+    background-color: #d9d9d9;
+  }
+  
+  .home-page .navbar-wrapper {
+    position: absolute;
+    width: 904px;
+    height: 20px;
+    top: 17px;
+    left: 294px;
+  }
+  
+  .home-page .navbar {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 27px;
+    position: relative;
+  }
+  
+  .home-page .text-wrapper-22 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-23 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .welcome-team-name {
+    position: absolute;
+    width: 197px;
+    height: 20px;
+    top: 16px;
+    left: 1314px;
+    font-family: "Outfit-Light", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  
+  .home-page .span {
+    font-weight: 300;
+  }
+  
+  .home-page .text-wrapper-24 {
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+  }
+  
+  .home-page .group-3 {
+    position: absolute;
+    width: 191px;
+    height: 129px;
+    top: 346px;
+    left: 496px;
+  }
+  
+  .home-page .div-wrapper {
+    position: absolute;
+    width: 83px;
+    height: 42px;
+    top: 87px;
+    left: 0;
+    background-color: #000000;
+    border-radius: 40px;
+  }
+  
+  .home-page .text-wrapper-25 {
+    position: absolute;
+    height: 20px;
+    top: 11px;
+    left: 20px;
+    font-family: "Outfit-Light", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-26 {
+    position: absolute;
+    height: 20px;
+    top: 0;
+    left: 6px;
+    font-family: "Outfit-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .in {
+    left: 10px;
+    position: absolute;
+    height: 20px;
+    top: 39px;
+    font-family: "Outfit-Light", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .in-2 {
+    left: 108px;
+    position: absolute;
+    height: 20px;
+    top: 39px;
+    font-family: "Outfit-Light", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-page .overlap-2 {
+    position: absolute;
+    width: 83px;
+    height: 42px;
+    top: 87px;
+    left: 98px;
+    background-color: #000000;
+    border-radius: 40px;
+  }
+  
+  .home-page .line {
+    left: 42px;
+    position: absolute;
+    width: 1px;
+    height: 14px;
+    top: 66px;
+    object-fit: cover;
+  }
+  
+  .home-page .img {
+    left: 140px;
+    position: absolute;
+    width: 1px;
+    height: 14px;
+    top: 66px;
+    object-fit: cover;
+  }
+  
+  .home-page .overlap-3 {
+    position: absolute;
+    width: 317px;
+    height: 135px;
+    top: 829px;
+    left: 501px;
+  }
+  
+  .home-page .overlap-4 {
+    position: absolute;
+    width: 317px;
+    height: 135px;
+    top: 829px;
+    left: 855px;
+  }
+
+  /*persona*/
+  .personas-modal {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .personas-modal .div {
+    background-color: #ffffff;
+    width: 786px;
+    height: 490px;
+    position: relative;
+  }
+  
+  .personas-modal .attributes {
+    position: absolute;
+    width: 277px;
+    height: 266px;
+    top: 182px;
+    left: 76px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 14px;
+  }
+  
+  .personas-modal .text-wrapper {
+    font-weight: 700;
+  }
+  
+  .personas-modal .span {
+    font-family: "Outfit-Regular", Helvetica;
+  }
+  
+  .personas-modal .pain-points-limited {
+    position: absolute;
+    width: 277px;
+    height: 196px;
+    top: 181px;
+    left: 411px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 14px;
+  }
+  
+  .personas-modal .p {
+    position: absolute;
+    width: 295px;
+    height: 28px;
+    top: 94px;
+    left: 411px;
+    font-family: "Outfit-Light", Helvetica;
+    font-weight: 300;
+    color: #828282;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 14px;
+  }
+  
+  .personas-modal .ellipse {
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    top: 83px;
+    left: 76px;
+    background-color: #d9d9d9;
+    border-radius: 33px;
+  }
+  
+  .personas-modal .john-smith {
+    position: absolute;
+    height: 16px;
+    top: 94px;
+    left: 156px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .personas-modal .text-wrapper-2 {
+    position: absolute;
+    height: 14px;
+    top: 115px;
+    left: 156px;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #838383;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 14px;
+    white-space: nowrap;
+  }
+  
+  .personas-modal .target-personas {
+    position: absolute;
+    height: 24px;
+    top: 25px;
+    left: 74px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .personas-modal .text-wrapper-3 {
+    position: absolute;
+    height: 24px;
+    top: 25px;
+    left: 734px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+
+
+  
+  
