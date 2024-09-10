@@ -9,7 +9,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class JDBCClimate {
-    private static final String DATABASE = "jdbc:sqlite:database/climateData.db";
+    private static final String DATABASE = "jdbc:sqlite:C:/Users/ASUS/Downloads/climateData.db";
 
     public JDBCClimate() {
         System.out.println("Object created: ");
